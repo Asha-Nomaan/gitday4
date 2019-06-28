@@ -1,2 +1,3 @@
 # gitday4
-hello from branch 1
+hello from branch 2
+
